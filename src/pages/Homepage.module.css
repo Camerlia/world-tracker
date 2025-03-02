@@ -1,0 +1,14 @@
+.homepage {
+  height: calc(100vh - 5rem);
+  margin: 2.5rem;
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0),
+      rgba(61, 150, 80, 0.8)
+    ),
+    url("bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+
+
